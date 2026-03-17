@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <author>
-    <name>All contributors</name>
+    <name>YOUOSHIN</name>
   </author>
   <generator uri="https://hexo.io/">Hexo</generator>
-  <id>https://krt.moe/</id>
-  <link href="https://krt.moe/" rel="alternate"/>
-  <link href="https://krt.moe/atom.xml" rel="self"/>
-  <rights>All rights reserved 2026, All contributors</rights>
-  <subtitle>一个可爱而现代的 Hexo 主题</subtitle>
-  <title>Kratos : Rebirth</title>
-  <updated>2026-03-16T14:36:05.766Z</updated>
+  <id>https://www.youoshin.top/</id>
+  <link href="https://www.youoshin.top/" rel="alternate"/>
+  <link href="https://www.youoshin.top/atom.xml" rel="self"/>
+  <rights>All rights reserved 2026, YOUOSHIN</rights>
+  <subtitle>不伦不类，似是而非</subtitle>
+  <title>R1cya的猫窝</title>
+  <updated>2026-03-17T16:30:32.749Z</updated>
   <entry>
     <author>
-      <name>All contributors</name>
+      <name>YOUOSHIN</name>
     </author>
-    <category term="全新体验" scheme="https://krt.moe/categories/%E5%85%A8%E6%96%B0%E4%BD%93%E9%AA%8C/"/>
-    <category term="欢迎" scheme="https://krt.moe/tags/%E6%AC%A2%E8%BF%8E/"/>
+    <category term="全新体验" scheme="https://www.youoshin.top/categories/%E5%85%A8%E6%96%B0%E4%BD%93%E9%AA%8C/"/>
+    <category term="欢迎" scheme="https://www.youoshin.top/tags/%E6%AC%A2%E8%BF%8E/"/>
     <content>
       <![CDATA[<p>欢迎使用 <code>Kratos : Rebirth</code> 这个我们精心打造的 Hexo 主题！希望能在接下来的旅途中与您相伴，共同创造出更多难以忘怀的美好体验。</p>]]>
     </content>
-    <id>https://krt.moe/posts/hello-world/</id>
-    <link href="https://krt.moe/posts/hello-world/"/>
+    <id>https://www.youoshin.top/posts/hello-world/</id>
+    <link href="https://www.youoshin.top/posts/hello-world/"/>
     <published>2018-05-06T17:03:12.000Z</published>
     <summary>
       <![CDATA[<p>欢迎使用 <code>Kratos : Rebirth</code> 这个我们精心打造的 Hexo 主题！希望能在接下来的旅途中与您相伴，共同创造出更多难以忘怀的美好体验。</p>]]>
     </summary>
     <title>你好，世界！</title>
-    <updated>2026-03-16T14:36:05.766Z</updated>
+    <updated>2026-03-17T16:30:32.749Z</updated>
   </entry>
 </feed>
